@@ -1,1 +1,3 @@
-# CENG453_20231_Group3_frontend
+# The Settlers of Catan Game Frontend
+
+The UI of the game is written using JavaFX
